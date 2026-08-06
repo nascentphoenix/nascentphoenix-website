@@ -5,6 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nascent Phoenix | From Vision to Visibility</title>
 
+    <meta name="description" content="Nascent Phoenix designs and builds high-credibility websites, UI/UX, and landing pages for law firms, accounting firms, CEOs, and growing startups.">
+    <link rel="canonical" href="https://nascentphoenix.online">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+
+    <!-- Open Graph / LinkedIn / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://nascentphoenix.online/">
+    <meta property="og:title" content="Nascent Phoenix | Premium Web Design & Development Studio">
+    <meta property="og:description" content="High-credibility websites, UI/UX, and landing pages designed to build trust on sight before a single call happens.">
+    <meta property="og:image" content="https://nascentphoenix.online/favicon.svg">
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://nascentphoenix.online/">
+    <meta name="twitter:title" content="Nascent Phoenix | Premium Web Design Studio">
+    <meta name="twitter:description" content="High-credibility websites, UI/UX, and landing pages designed to build trust on sight.">
+    <meta name="twitter:image" content="https://nascentphoenix.online/favicon.svg">
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
@@ -22,14 +40,18 @@
     </a>
 </div>
 
-<nav>
+<button class="mobile-toggle" id="mobileToggle" aria-label="Toggle navigation menu">
+    <span></span>
+    <span></span>
+    <span></span>
+</button>
+
+<nav class="nav-menu" id="navMenu">
 
 <a href="#home">Home</a>
 <a href="#services">Services</a>
 <a href="#about">About</a>
 <a href="#contact">Contact</a>
-
-</nav>
 
 </nav>
 
@@ -44,12 +66,12 @@ Start Project
 <div class="hero-left">
 
 <div class="badge">
-🚀 Premium Web Design Studio
+<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#F97316" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 6px;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg> Premium Web Design Studio
 </div>
 
 <h1>
 Websites That
-<span>Build Trust.</span>
+<span>Build Trust.</span><br>
 Grow Businesses.
 </h1>
 
@@ -60,7 +82,7 @@ We create premium websites, landing pages and digital experiences that help busi
 <div class="hero-buttons">
 
 <a href="#services" class="btn-primary">
-View Portfolio
+Explore Services
 </a>
 
 <a href="#contact" class="btn-secondary">
@@ -81,6 +103,93 @@ Book a Call
 
 </div>
 
+<div class="hero-right">
+    <div class="phoenix-container">
+        <div class="phoenix-aura"></div>
+        <svg class="phoenix-svg" viewBox="0 0 500 500" width="100%" height="100%" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <linearGradient id="phxOrange" x1="0%" y1="0%" x2="100%" y2="100%">
+                    <stop offset="0%" stop-color="#F97316"/>
+                    <stop offset="100%" stop-color="#FF8C38"/>
+                </linearGradient>
+                <linearGradient id="phxBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+                    <stop offset="0%" stop-color="#2563EB"/>
+                    <stop offset="100%" stop-color="#60A5FA"/>
+                </linearGradient>
+                <linearGradient id="phxGold" x1="0%" y1="0%" x2="100%" y2="100%">
+                    <stop offset="0%" stop-color="#FBBF24"/>
+                    <stop offset="100%" stop-color="#F97316"/>
+                </linearGradient>
+                <radialGradient id="glowGlow" cx="50%" cy="50%" r="50%">
+                    <stop offset="0%" stop-color="#F97316" stop-opacity="0.35"/>
+                    <stop offset="100%" stop-color="#2563EB" stop-opacity="0"/>
+                </radialGradient>
+            </defs>
+
+            <!-- Background Glow Aura -->
+            <circle cx="250" cy="240" r="180" fill="url(#glowGlow)"/>
+
+            <!-- Tail Feathers / Flowing Plumes -->
+            <g class="phoenix-tail">
+                <path d="M250 290 Q220 370 170 430 Q210 370 245 305" fill="url(#phxOrange)" opacity="0.85"/>
+                <path d="M250 290 Q250 390 250 460 Q255 390 255 295" fill="url(#phxGold)" opacity="0.9"/>
+                <path d="M250 290 Q280 370 330 430 Q290 370 255 305" fill="url(#phxOrange)" opacity="0.85"/>
+                <path d="M250 310 Q200 400 130 450 Q180 390 240 320" stroke="url(#phxOrange)" stroke-width="2.5" stroke-linecap="round" fill="none" opacity="0.7"/>
+                <path d="M250 310 Q300 400 370 450 Q320 390 260 320" stroke="url(#phxOrange)" stroke-width="2.5" stroke-linecap="round" fill="none" opacity="0.7"/>
+            </g>
+
+            <!-- Left Wing -->
+            <g class="phoenix-wing-left">
+                <!-- Outer Primary Feathers -->
+                <path d="M240 240 Q180 180 80 120 Q140 180 190 230" fill="url(#phxOrange)"/>
+                <path d="M235 245 Q160 160 50 160 Q120 200 180 250" fill="url(#phxGold)" opacity="0.9"/>
+                <path d="M230 255 Q140 190 30 210 Q100 230 170 265" fill="url(#phxOrange)" opacity="0.8"/>
+                <path d="M225 265 Q130 220 40 270 Q100 260 160 280" fill="url(#phxBlue)" opacity="0.85"/>
+                <!-- Inner Wing Sweep Lines -->
+                <path d="M235 240 C170 170 90 130 80 120" stroke="#FFD8A8" stroke-width="2" stroke-linecap="round" fill="none"/>
+                <path d="M230 250 C160 190 70 170 50 160" stroke="#FFE8CC" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+            </g>
+
+            <!-- Right Wing -->
+            <g class="phoenix-wing-right">
+                <!-- Outer Primary Feathers -->
+                <path d="M260 240 Q320 180 420 120 Q360 180 310 230" fill="url(#phxOrange)"/>
+                <path d="M265 245 Q340 160 450 160 Q380 200 320 250" fill="url(#phxGold)" opacity="0.9"/>
+                <path d="M270 255 Q360 190 470 210 Q400 230 330 265" fill="url(#phxOrange)" opacity="0.8"/>
+                <path d="M275 265 Q370 220 460 270 Q400 260 340 280" fill="url(#phxBlue)" opacity="0.85"/>
+                <!-- Inner Wing Sweep Lines -->
+                <path d="M265 240 C330 170 410 130 420 120" stroke="#FFD8A8" stroke-width="2" stroke-linecap="round" fill="none"/>
+                <path d="M270 250 C340 190 430 170 450 160" stroke="#FFE8CC" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+            </g>
+
+            <!-- Phoenix Central Body & Crest -->
+            <g class="phoenix-body">
+                <!-- Slender Body -->
+                <path d="M250 170 Q235 220 238 290 Q250 300 262 290 Q265 220 250 170 Z" fill="url(#phxBlue)"/>
+                <!-- Chest Flame Shield -->
+                <path d="M250 190 Q240 230 242 270 Q250 280 258 270 Q260 230 250 190 Z" fill="url(#phxGold)" opacity="0.9"/>
+                <!-- Neck & Graceful Head -->
+                <path d="M250 175 Q245 140 258 115 Q265 110 262 120 Q255 140 250 175 Z" fill="url(#phxBlue)"/>
+                <!-- Beak Pointing Upward -->
+                <polygon points="258,115 272,112 261,121" fill="url(#phxGold)"/>
+                <!-- Crown Feathers / Rising Crest -->
+                <path d="M254 125 Q240 90 225 70 Q245 95 255 118" fill="url(#phxOrange)"/>
+                <path d="M256 120 Q255 80 250 55 Q258 85 257 115" fill="url(#phxGold)"/>
+                <path d="M258 122 Q270 90 285 70 Q268 95 259 118" fill="url(#phxOrange)"/>
+            </g>
+
+            <!-- Rising Ember Particles -->
+            <g class="phoenix-embers">
+                <circle cx="210" cy="380" r="3" fill="#F97316" class="ember e1"/>
+                <circle cx="290" cy="360" r="2.5" fill="#FBBF24" class="ember e2"/>
+                <circle cx="170" cy="410" r="2" fill="#60A5FA" class="ember e3"/>
+                <circle cx="330" cy="420" r="3.5" fill="#F97316" class="ember e4"/>
+                <circle cx="250" cy="440" r="2" fill="#FBBF24" class="ember e5"/>
+            </g>
+        </svg>
+    </div>
+</div>
+
 </section>
 
 <section class="services" id="services">
@@ -99,9 +208,11 @@ We create digital experiences that build trust, strengthen your brand and help c
 
 <div class="service-grid">
 
-<div class="service-card">
+<div class="service-card service-accent-1">
 
-<div class="service-icon">🌐</div>
+<div class="service-icon">
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#2563EB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+</div>
 
 <h3>Business Websites</h3>
 
@@ -111,9 +222,11 @@ Professional websites tailored to represent your business with credibility and i
 
 </div>
 
-<div class="service-card">
+<div class="service-card service-accent-2">
 
-<div class="service-icon">🎨</div>
+<div class="service-icon">
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#F97316" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="13.5" cy="6.5" r=".5"/><circle cx="17.5" cy="10.5" r=".5"/><circle cx="8.5" cy="7.5" r=".5"/><circle cx="6.5" cy="12.5" r=".5"/><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10c.92 0 1.7-.72 1.7-1.65 0-.43-.17-.83-.44-1.14-.29-.33-.46-.77-.46-1.25 0-1.02.82-1.85 1.85-1.85h2.15c2.9 0 5.25-2.35 5.25-5.25 0-4.9-4.1-8.86-9.05-8.86z"/></svg>
+</div>
 
 <h3>Brand Identity</h3>
 
@@ -123,9 +236,11 @@ Logos, colors and visual systems that make your brand instantly recognizable.
 
 </div>
 
-<div class="service-card">
+<div class="service-card service-accent-3">
 
-<div class="service-icon">📱</div>
+<div class="service-icon">
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="2" width="14" height="20" rx="2" ry="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg>
+</div>
 
 <h3>Responsive Design</h3>
 
@@ -135,9 +250,11 @@ A flawless experience across desktops, tablets and smartphones.
 
 </div>
 
-<div class="service-card">
+<div class="service-card service-accent-4">
 
-<div class="service-icon">🚀</div>
+<div class="service-icon">
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#F97316" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+</div>
 
 <h3>Landing Pages</h3>
 
@@ -147,9 +264,11 @@ High-converting landing pages designed for campaigns and lead generation.
 
 </div>
 
-<div class="service-card">
+<div class="service-card service-accent-5">
 
-<div class="service-icon">♻️</div>
+<div class="service-icon">
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#818CF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg>
+</div>
 
 <h3>Website Redesign</h3>
 
@@ -159,9 +278,11 @@ Transform outdated websites into modern digital experiences.
 
 </div>
 
-<div class="service-card">
+<div class="service-card service-accent-6">
 
-<div class="service-icon">⚡</div>
+<div class="service-icon">
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#F97316" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>
+</div>
 
 <h3>Performance & SEO</h3>
 
@@ -191,23 +312,43 @@ Every website we create is designed with one purpose — helping your business e
 
 <div class="why-grid">
 
-<div class="why-card">
-<h3>⚡ Fast Performance</h3>
+<div class="why-card why-accent-1">
+<div class="why-card-header">
+<div class="why-icon">
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#F97316" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+</div>
+<h3>Fast Performance</h3>
+</div>
 <p>Optimized websites that load quickly and provide a smooth experience.</p>
 </div>
 
-<div class="why-card">
-<h3>📱 Mobile First</h3>
+<div class="why-card why-accent-2">
+<div class="why-card-header">
+<div class="why-icon">
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563EB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="2" width="14" height="20" rx="2" ry="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg>
+</div>
+<h3>Mobile First</h3>
+</div>
 <p>Your website looks perfect on every screen, from phones to desktops.</p>
 </div>
 
-<div class="why-card">
-<h3>🎯 Purpose Driven Design</h3>
+<div class="why-card why-accent-3">
+<div class="why-card-header">
+<div class="why-icon">
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#F97316" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>
+</div>
+<h3>Purpose Driven Design</h3>
+</div>
 <p>Every section is created to guide visitors toward becoming customers.</p>
 </div>
 
-<div class="why-card">
-<h3>🔒 Reliable & Secure</h3>
+<div class="why-card why-accent-4">
+<div class="why-card-header">
+<div class="why-icon">
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563EB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+</div>
+<h3>Reliable & Secure</h3>
+</div>
 <p>Modern development practices focused on stability and long-term growth.</p>
 </div>
 
@@ -234,7 +375,12 @@ Whether you're starting a new business or looking to upgrade your online presenc
 <div class="contact-info">
 
 <div class="contact-item">
-<h3>📧 Email</h3>
+<div class="contact-item-header">
+<div class="contact-icon">
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#F97316" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+</div>
+<h3>Email</h3>
+</div>
 <p>
 <a href="mailto:phoenixnascent89@gmail.com">
 phoenixnascent89@gmail.com
@@ -243,30 +389,48 @@ phoenixnascent89@gmail.com
 </div>
 
 <div class="contact-item">
-<h3>💼 LinkedIn</h3>
+<div class="contact-item-header">
+<div class="contact-icon">
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#2563EB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+</div>
+<h3>LinkedIn</h3>
+</div>
 <p>
-<a href="https://linkedin.com/company/nascent-phoenix" target="_blank">
+<a href="https://linkedin.com/company/nascent-phoenix" target="_blank" rel="noopener">
 linkedin.com/company/nascent-phoenix
 </a>
 </p>
 </div>
 
 <div class="contact-item">
-<h3>🌍 Availability</h3>
+<div class="contact-item-header">
+<div class="contact-icon">
+<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#F97316" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+</div>
+<h3>Availability</h3>
+</div>
 <p>Working with businesses worldwide.</p>
 </div>
 
 </div>
 
-<form class="contact-form">
+<form class="contact-form" action="https://formspree.io/f/xljreavd" method="POST">
 
-<input type="text" placeholder="Your Name" required>
+<div class="form-group">
+    <input type="text" name="name" id="form-name" placeholder="Your Name" required>
+</div>
 
-<input type="email" placeholder="Your Email" required>
+<div class="form-group">
+    <input type="email" name="email" id="form-email" placeholder="Your Email" required>
+</div>
 
-<input type="text" placeholder="Business / Company">
+<div class="form-group">
+    <input type="text" name="company" id="form-company" placeholder="Business / Company">
+</div>
 
-<textarea placeholder="Tell us about your project..." rows="6" required></textarea>
+<div class="form-group">
+    <textarea name="message" id="form-message" placeholder="Tell us about your project..." rows="6" required></textarea>
+</div>
 
 <button type="submit" class="btn-primary">
 Send Inquiry
@@ -277,6 +441,39 @@ Send Inquiry
 </div>
 
 </section>
+
+<footer class="footer">
+
+<div class="footer-content">
+
+<div class="footer-brand">
+<h2>Nascent<span>Phoenix</span></h2>
+<p>High-credibility web design and development studio for law firms, accounting firms, CEOs, and growing startups.</p>
+</div>
+
+<div class="footer-links">
+<h3>Quick Links</h3>
+<a href="#home">Home</a>
+<a href="#services">Services</a>
+<a href="#about">About</a>
+<a href="#contact">Contact</a>
+</div>
+
+<div class="footer-contact">
+<h3>Connect</h3>
+<a href="mailto:phoenixnascent89@gmail.com">phoenixnascent89@gmail.com</a>
+<a href="https://linkedin.com/company/nascent-phoenix" target="_blank" rel="noopener">LinkedIn Profile</a>
+<p>Working with businesses worldwide.</p>
+</div>
+
+</div>
+
+<div class="footer-bottom">
+<p>&copy; 2026 Nascent Phoenix. All rights reserved.</p>
+</div>
+
+</footer>
+
 <script src="script.js"></script>
 
 </body>
