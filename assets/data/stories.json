@@ -1,0 +1,256 @@
+{
+  "moods": [
+    {
+      "id": "love",
+      "name": "Love",
+      "tagline": "Warmth for the tender and open heart",
+      "accent": "#D98A7D",
+      "bgAura": "rgba(217, 138, 125, 0.15)",
+      "stories": [
+        {
+          "id": "love-1",
+          "title": "The Teacup on the Windowsill",
+          "subtitle": "A small gesture across a quiet morning",
+          "readTime": "5 min read",
+          "excerpt": "Steam rose gently from the porcelain mug, carrying the scent of chamomile and silent morning promises...",
+          "content": "Long before the first amber rays of sunlight crept over the misty eastern hills, Clara found herself standing in the quiet chill of the kitchen. The house was still wrapped in that deep, velvety silence that only exists in the early hours before the world remembers its daily rush. She wrapped her thick wool cardigan tightly around her shoulders, her slippers making no sound against the worn pine floorboards.\n\nAs she turned toward the bay window overlooking the sleeping garden, she stopped. Resting on the broad oak windowsill was a heavy porcelain teacup. A thin, curling plume of fragrant steam rose from its surface into the cool air, carrying the subtle, comforting scent of dried chamomile, honey, and fresh mint. The mug was wrapped in a coarse hand-knitted sleeve fashioned weeks ago from the cuff of an old charcoal wool sweater—a practical little creation he had made after noticing how quickly her tea lost its warmth in the drafty house.\n\nBeside the cup lay a small square of thick, hand-pressed parchment. It held no written words, no dramatic declarations, nor any signed names. On it was simply drawn three tiny, hand-penned stars drawn with a fine black ink pen. She didn't need words. Love, she had come to realize through the quiet progression of passing seasons, rarely demanded a grand theatrical stage or thunderous announcements. It had a quiet, stubborn, and deeply comforting way of settling into the forgotten, ordinary nooks of a shared life.\n\nIt was present in the subtle way the heavy winter quilt was gently pulled over her cold shoulders at three in the morning without waking her. It lived in the extra slice of sweet ripe peach left deliberately on the porcelain kitchen plate during hot July afternoons, and in the porch light kept softly glowing against the encroaching evening gloom whenever rain washed over the valley.\n\nClara stepped toward the window and lifted the mug with both hands, allowing the radiant warmth to seep deep into her fingertips and palms. Taking a slow, deliberate sip, the comforting liquid warmed her throat and settled softly in her chest. Outside, the morning was beginning its unhurried awakening. A pale violet haze was yielding to soft gold along the horizon, touching the upper branches of the neighbor’s ancient sugar maple tree and transforming the overnight dew drops on the leaves into shimmering specks of liquid light.\n\nShe leaned her forehead against the cool glass of the windowpane, watching a pair of morning sparrows flutter down to the bird feeder he had repaired the previous weekend. Affection, she pondered, was not a sudden violent lightning bolt that shook the earth beneath one's feet; it was a continuous, quiet series of gentle arrivals. It was the conscious choice to wake ten minutes early simply to ensure that another human being met the breaking day with warmth already waiting in their hands.\n\nAs the tea cooled to a perfect, gentle temperature, she set the mug down and picked up the small parchment square. She slipped it carefully into the wooden frame of the windowsill mirror—a quiet little beacon reminding her that to be truly loved was not to be overwhelmed or swept away, but to be deeply, steadfastly, and peacefully seen.",
+          "reflection": "Notice the warmth in your hands right now. Someone's quiet kindness has touched your life today, even in ways you have not yet recognized."
+        },
+        {
+          "id": "love-2",
+          "title": "Letters Written in Rain",
+          "subtitle": "Finding connection in unexpected places",
+          "readTime": "5 min read",
+          "excerpt": "They stood together under the green bookstore awning, watching the downpour wash away the afternoon haste...",
+          "content": "The late afternoon sky over the old quarter of the city had turned from a soft pearl grey to a deep, bruised slate before suddenly opening into a heavy autumn downpour. Within seconds, the bustling avenue transformed. Pedestrians scurried into doorways, newspapers were pulled over heads, and yellow taxis splashed through emerging puddles along the curb.\n\nUnder the dark green canvas awning of an old secondhand bookstore on Eighth Street, two strangers found themselves standing side by side. The awning was narrow, forcing them into close proximity as water cascaded from the iron gutter above like a shimmering curtain. Neither moved to check their watch, pull out a smartphone, or sigh in frustration. The sheer intensity of the deluge seemed to impose a collective, peaceful moratorium on the city's perpetual urgency.\n\nThe rain drummed a heavy, hypnotic rhythm against the streetlamps and stone buildings. 'I think the sky has been holding its breath all week,' she remarked softly after several minutes of shared silence, her voice light and unhurried.\n\nHe turned his head slightly, a genuine smile crinkling the corners of his dark eyes. Without a word of drama, he shifted his wide navy blue umbrella just a few inches to his left, expanding his small circle of dry concrete so the cold drips splashing off the awning edge stopped falling onto her coat shoulder. 'Maybe we all have,' he replied quietly, his tone matching the gentle cadence of the rain.\n\nFor nearly half an hour, they stood in that small, sheltered pocket of pavement while the city washed clean around them. They didn't exchange names, occupations, or phone numbers. Instead, they talked about the distinct scent of rain hitting dry asphalt—that sweet, earthy aroma known as petrichor—and how the old bookstore behind them smelled of aged leather bindings, vanilla paper, and dried lavender. They spoke of how rare it had become to be unexpectedly stranded somewhere with absolutely nowhere else you were permitted to be.\n\nThey discovered a mutual fondness for forgotten poetry books, morning walks in winter fog, and the quiet comfort of railway journeys. There was no pretense between them, no social performance to maintain, only the effortless warmth of two human beings sharing shelter in a storm.\n\nWhen the dark clouds finally began to fragment, revealing ribbons of pale gold sky above the wet rooftops, the rain softened into a fine mist. The street glistened like a fresh canvas. He lowered his umbrella with a soft click. They looked at each other for a long moment, exchanging a warm nod of quiet, mutual gratitude.\n\nAs they stepped out onto the wet sidewalk, walking in opposite directions toward their separate lives, neither felt isolated anymore. True love, they both understood in that quiet afternoon, was not always a lifelong contract signed in ink; sometimes it was simply the unselfish shelter you offered another soul when the clouds unexpectedly broke.",
+          "reflection": "Take a gentle breath. Love lives wherever quiet care is offered without expecting anything in return."
+        },
+        {
+          "id": "love-3",
+          "title": "The Weaver of Soft Threads",
+          "subtitle": "A quiet reminder of belonging",
+          "readTime": "6 min read",
+          "excerpt": "In the mountain village, Grandmother Lin spent her quiet evenings repairing worn coats with shimmering gold...",
+          "content": "High in the mist-shrouded valley of Oakhaven, where the pine forests smelled perpetually of resin and damp earth, stood the small stone cottage of Grandmother Lin. Every evening, as twilight painted the mountain peaks in shades of violet and rose, a soft amber glow shone from her front window.\n\nLin was the village mender. Farmers with coats torn by mountain briars, mothers with children's sweaters worn thin at the elbows, and traveling merchants with blankets frayed by long road journeys all made their way to her doorstep. But Lin never simply patched a tear with matching scraps of dull fabric to hide the damage. Instead, using a delicate silver needle and fine, shimmering golden thread, she embroidered elegant soaring sparrows, curving river waves, and delicate autumn leaves directly over every tear and fray.\n\nOne chilly evening, a young scholar passing through the mountain pass sat by her hearth, watching her silver needle glide effortlessly through dark indigo wool. He had been traveling for months, carrying a heavy heart weighed down by personal failures and fractured dreams.\n\n'Grandmother Lin,' the young man asked, leaning forward as wood crackled in the fireplace, 'why do you make the tears so bright and noticeable? Should a good mend not hide the damage so the garment looks pristine and untouched, as if nothing ever broke?'\n\nLin paused, holding the heavy coat up into the firelight. The golden stitches gleamed like molten sunbeams against the dark fabric. She looked over her spectacles at him, her dark eyes filled with decades of quiet understanding.\n\n'When a thread snaps or fabric tears, my son,' she said softly, her voice like dry autumn leaves rustling in a gentle breeze, 'it is simply the place where life tried to enter the garment too fast. If we hide the tear, we pretend the journey never happened. We pretend we never walked through the briars or weathered the storm.'\n\nShe drew another length of golden thread through her needle. 'The gold does not pretend the tear wasn't painful. The gold reminds us that what has been broken, cared for, and mended with patience and tenderness is far more precious and beautiful than something that remained safe inside a dark chest, untouched by the world.'\n\nShe completed her final knot and handed the cloak back to the scholar. He ran his trembling fingers over the raised golden embroidery. Where an ugly, jagged tear had threatened to ruin the wool, there was now a work of extraordinary, quiet art. He wrapped the heavy cloak around his shoulders and stepped out into the night wind.\n\nThe mountain air was biting and cold, but inside the gold-stitched wool, he felt a deep, radiant warmth spread through his chest. He realized then that human affection worked in precisely the same holy way. We do not love people by pretending they have no wounds or scars; we love them by weaving golden stitches of patience, forgiveness, and presence through their broken places until they can stand warm against the wind.",
+          "reflection": "Rest your shoulders down away from your ears. You are stitched into the quiet warmth of the world."
+        }
+      ]
+    },
+    {
+      "id": "sad",
+      "name": "Sadness",
+      "tagline": "Gentle solace for heavy shoulders",
+      "accent": "#6C7D93",
+      "bgAura": "rgba(108, 125, 147, 0.15)",
+      "stories": [
+        {
+          "id": "sad-1",
+          "title": "The Harbor at Dusk",
+          "subtitle": "Allowing the tide to carry what hurts",
+          "readTime": "5 min read",
+          "excerpt": "The tide did not hurry to reach the shore, nor did it apologize for receding into the dark waters...",
+          "content": "He sat near the edge of the weathered wooden pier until the evening sky shifted from deep indigo to the color of bruised plums and wet slate. Below his dangling boots, the dark coastal tide moved in steady, unhurried measures—swelling gently against the green moss of the timber pilings, splashing softly, and receding back into the vast bay.\n\nHis chest felt uncomfortably tight, weighed down by the silent accumulation of a long month that had demanded far too much strength, composure, and emotional armor from him. He had spent weeks reassuring everyone around him that he was fine, wearing a polite, hollow smile like a mask that had grown heavier with each passing day.\n\nA few paces down the pier, an elderly harbormaster sat on an overturned wooden crate, methodically coiling thick hemp rope into neat, patient circles. The harbormaster offered no unsolicited advice, no cheerful platitudes, nor any intrusive questions. He simply worked in quiet harmony with the rhythm of the sea.\n\n'The bay never tries to hold on to a wave, son,' the harbormaster remarked softly after a long stretch of silence, his eyes remaining fixed on the blinking lighthouse beam in the distance. 'It lets every single wave crash against the shore, spill its strength across the sand, and dissolve completely back into the deep water. If the ocean tried to hold every wave at its peak, it would tear itself apart.'\n\nHe watched a large crest of white foam break against the pier post, bubble softly in the dark water, and slip silently back into the tide. For the first time in weeks, he felt the sharp, aching knot in his throat begin to loosen.\n\nHe stopped fighting the heavy feeling in his chest. He dropped his gaze to the dark water below and allowed himself to simply be exhausted. He didn't have to fix anything tonight. He didn't have to present a brave face to the twilight. It was okay to sit in the quiet grey air and let the sadness spill over his edges until his lungs finally had room to draw a full, unburdened breath.",
+          "reflection": "You do not need to hold everything together tonight. Let your breath soften and let the heavy tide wash through."
+        },
+        {
+          "id": "sad-2",
+          "title": "Rain on the Cedar Roof",
+          "subtitle": "Finding peace inside the quiet storm",
+          "readTime": "5 min read",
+          "excerpt": "There was a profound comfort in realizing that the sky too had days where it simply had to overflow...",
+          "content": "The small timber cabin nestled at the edge of the cedar forest was completely quiet, except for the continuous, rhythmic drumming of autumn rain tapping against the roof shingles. Inside, the air smelled faintly of woodsmoke, dried sage, and warm wool.\n\nShe sat tucked into a deep velvet armchair with her knees pulled up to her chest, wrapped in a heavy grey blanket. Outside the glass windowpane, water droplets gathered at the top edge of the frame, merged into heavy rivulets, and traced slow, erratic paths down to the wooden sill.\n\nFor weeks she had waged an exhausting internal war against her melancholy. She had treated her sadness like an embarrassing flaw or an unwelcome intruder in her home. She had tried to keep herself frantically busy—filling every vacant hour with chores, podcasts, work deadlines, and forced cheerfulness. But sitting here in the cool, dim grey light of the late afternoon, the sheer exhaustion of her resistance caught up with her.\n\nShe placed her book down on the side table and leaned her cheek against the cool glass of the window. She stopped fighting. She opened her arms mentally and allowed the melancholy to sit right beside her in the quiet room, unjudged and unhurried.\n\nSorrow, she began to understand, was not a enemy to be defeated or a disease to be cured. It was simply the natural, honorable response of a human heart that had cared deeply, carried heavy weight, and now needed rest. Outside, the towering ancient cedars bent willingly under the heavy downpour. They didn't rail against the dark storm or demand the return of the summer sun before its time; they yielded gracefully to the wet wind, trusting the strength of their hidden roots deep in the earth.\n\nAs twilight deepened into evening, she listened to the steady, therapeutic rain song. A profound, tranquil peace settled over her shoulders. The sky was weeping, and in its honest weeping, it was clearing the air for whatever light tomorrow would bring.",
+          "reflection": "Sorrow is not a failure of joy; it is simply the heart resting after bearing heavy weight."
+        },
+        {
+          "id": "sad-3",
+          "title": "The Lantern in the Mist",
+          "subtitle": "Walking slowly through the quiet fog",
+          "readTime": "6 min read",
+          "excerpt": "You do not need to see the entire mountain path to take the next single, gentle step...",
+          "content": "The high mountain valley had been swallowed whole by a dense, motionless evening fog. Standing at the edge of the stone monastery courtyard, Maya held a small hand-crafted paper lantern. Inside, a tiny beeswax candle flickered behind translucent rice-paper panels, casting a soft golden halo into the surrounding white mist.\n\nFrom where her boots rested on the damp flagstones, the world beyond was entirely invisible. She could see no further than two paces ahead of her. The winding stone path that led down the mountain toward home was completely lost in the gloom.\n\nA sharp knot of fear tightened in her chest. How could she possibly navigate the mountain when she couldn't see where the road was heading? How could she take a step forward when every direction felt uncertain, dark, and obscured?\n\nAn elderly monk carrying a bundle of dried lavendel paused on the steps beside her. He noticed her frozen stance and the tight grip of her knuckles on the lantern handle.\n\n'You are trying to look all the way to the bottom of the valley, Maya,' the old monk said softly, his voice gentle like dry leaves drifting over stone. 'The lantern was never constructed to illuminate the whole mountain path at once. It was designed to give just enough light for the very next step.'\n\nMaya lowered her gaze to the small circle of warm amber light shimmering across the damp flagstone directly in front of her feet. She took a slow, deep breath, lifted her right foot, and stepped into that tiny circle of light.\n\nAs her boot touched the stone, the golden glow moved forward with her, illuminating the next stone just beyond the dark edge of the mist. The fog did not magically dissipate into thin air, nor did the mountain suddenly become bright and clear. But with each deliberate, unhurried step she took, the lantern provided just enough clarity for the present moment.\n\nShe realized then that navigating grief and uncertainty required the exact same patience. You do not need to have your entire life mapped out tonight. You only need enough light for the single step right in front of you.",
+          "reflection": "Focus only on this single breath, this single step. You do not have to solve tomorrow night."
+        }
+      ]
+    },
+    {
+      "id": "inspiring",
+      "name": "Inspiring",
+      "tagline": "A spark of light for quiet beginnings",
+      "accent": "#D69536",
+      "bgAura": "rgba(214, 149, 54, 0.15)",
+      "stories": [
+        {
+          "id": "inspiring-1",
+          "title": "The First Green Leaf",
+          "subtitle": "Life pushing through frozen earth",
+          "readTime": "5 min read",
+          "excerpt": "Winter had been long and relentless, yet deep beneath the frozen soil, something was quietly waiting...",
+          "content": "The stone courtyard of the old stone manor looked completely desolate after five months of relentless sub-zero winds, heavy snowstorms, and bitter frosts. Dry oak twigs rattled in the morning breeze, the stone fountain remained filled with a solid block of grey ice, and the earth looked rock-hard and dead.\n\nMarcus walked out into the chilly air wearing his heavy wool coat, carrying a bamboo broom to sweep away the damp piles of rotting leaves that had collected in the corners of the brick walls. He had spent his own winter in a state of quiet despair—a long period of creative stillness where every idea he attempted felt flat, useless, and heavy.\n\nAs he swept away a thick layer of wet pine needles near the base of the north wall, he stopped abruptly. Pushing directly through the frozen, rock-hard clay was a tiny green shoot, no larger than a tiny grain of rice. Its two minuscule leaves were a luminous, glowing emerald against the dark, frozen earth.\n\nHe dropped his broom and knelt down in the cold dirt, staring at it in awe. The tiny sprout possessed no steel armor, no thick woody bark, no visible weapons—only an quiet, invincible instinct to reach toward the faint warmth of the early morning sun. It had spent months in pitch darkness, crushed under ice and dead leaves, yet it had never stopped growing upward.\n\nMarcus touched the damp soil beside it with the tip of his finger. If something so impossibly fragile could push through inches of frozen clay to greet the morning light, perhaps the dreams he had buried during his own long winter were not dead after all. They were merely taking root in the deep quiet, gathering strength to break through when the time was right.",
+          "reflection": "The quietest beginnings often yield the strongest growth. Trust the hidden timing of your life."
+        },
+        {
+          "id": "inspiring-2",
+          "title": "The Horizon Watcher",
+          "subtitle": "Rising above the clouds of doubt",
+          "readTime": "5 min read",
+          "excerpt": "From the peak, the valley below was hidden in darkness, but the summit was ablaze with gold...",
+          "content": "She had been hiking up the narrow mountain ridge since four in the morning, her boots clicking against granite rock and her legs aching with every steep grade. The trail was poorly marked, wrapped in cold mountain fog, and twice she had nearly turned back toward the warm safety of the valley village.\n\nHer mind had been full of persistent doubts for months. Every endeavor she started seemed to run into obstacles, and the opinions of cynical voices had weighed heavily on her spirit. But she kept moving her feet, one step after another, ascending through the dark forest.\n\nWhen her boots finally reached the windswept granite summit, the world transformed instantly before her eyes. Below her, the entire valley was buried beneath a thick, rolling ocean of dark grey clouds—stormy, shadow-filled, and turbulent. But up here at the peak, the sun broke over the eastern horizon, bathing the high granite rocks in brilliant, radiant gold.\n\nShe stood at the precipice, breathing in the thin, crisp air. The storms down in the valley hadn't vanished into thin air, but from this height, she could see how small and temporary they truly were beneath the infinite blue vault of the sky. The climb had been painful, but the summit view restored her soul.",
+          "reflection": "Step back from the immediate noise. You are far greater than the temporary clouds around you."
+        },
+        {
+          "id": "inspiring-3",
+          "title": "The Clockmaker's Secret",
+          "subtitle": "Every second is a fresh canvas",
+          "readTime": "6 min read",
+          "excerpt": "Master Julian never crafted clocks that merely ticked; he built timepieces that sang of possibility...",
+          "content": "In his cozy workshop smelling of brass polish, lavender oil, and aged cedar wood, Master Julian adjusted the delicate balance wheel of a tall antique clock. A young apprentice sat nearby on a stool, watching the elder craftsman work with quiet admiration.\n\n'Master Julian,' the apprentice asked, looking at the dozens of ticking clocks lining the shelves, 'do you ever feel regret for the years you spent building clocks that eventually stopped working or broke down?'\n\nJulian lowered his magnifying loupe lens and looked at the young man with a warm, gentle smile. 'Every tick of a clock, my boy, is not a sad reminder of time lost or gone forever. It is the universe handing you a brand new, unblemished moment. The second that just passed is finished, but the next second arrives pure, clean, and completely untouched by past mistakes.'\n\nHe gently released the brass pendulum. Its smooth, rhythmic swing filled the shop with a deep, reassuring heartbeat. The apprentice closed his eyes, feeling the quiet promise of brand new beginnings tick smoothly into existence all around him.",
+          "reflection": "This very moment is fresh and uncluttered. You can start again right now."
+        }
+      ]
+    },
+    {
+      "id": "heartbroken",
+      "name": "Heartbroken",
+      "tagline": "Soft healing for wounded places",
+      "accent": "#8E7A93",
+      "bgAura": "rgba(142, 122, 147, 0.15)",
+      "stories": [
+        {
+          "id": "heartbroken-1",
+          "title": "The Glass Workshop",
+          "subtitle": "Reforging what was split apart",
+          "readTime": "5 min read",
+          "excerpt": "Broken fragments do not mean the glass has lost its beauty; they mean it is ready for the mosaic...",
+          "content": "In a quiet cobblestone alley of the old artisan district stood a small stained-glass studio. The floor was strewn with sharp fragments of cobalt blue, amber, and violet glass—the remnants of a magnificent antique rose window that had shattered during a severe summer storm.\n\nThe master glassmaker knelt down on the wooden floor, picking up the broken pieces with reverence. Instead of sweeping them into the trash, she brought them to her wide wooden workbench. With incredible patience, she trimmed the rough edges and began joining the irregular fragments together using dark lead channels, reforging them into a brand new mosaic of a soaring phoenix rising into a dawn sky.\n\n'When glass breaks,' she explained gently to a grieving apprentice who had lost something dear, 'it does not mean its beauty has ended. It simply means the light now has dozens of new facets and angles to strike. The original window was lovely, but this new mosaic catches the setting sun in ways flat glass never could.'",
+          "reflection": "Your heart is not ruined by pain; it is gaining new facets to catch deeper light."
+        },
+        {
+          "id": "heartbroken-2",
+          "title": "The Autumn Clearing",
+          "subtitle": "Learning the gentle art of letting go",
+          "readTime": "5 min read",
+          "excerpt": "The trees did not weep as their golden leaves fell; they surrendered them to nourish the soil below...",
+          "content": "Elena walked through the quiet birch grove on a crisp late-October afternoon. Golden and bronze leaves drifted slowly around her boots with every rustle of the autumn breeze. She stopped beside an ancient white birch tree whose canopy had surrendered nearly all its foliage to the approaching winter.\n\nShe rested her palm against the smooth, cool bark. How gracefully the tree let go of what had sustained it through the warm summer months. It didn't clutch desperately at its golden leaves, nor did it panic at the coming frost. It trusted that by dropping what belonged to the past season, it was protecting its inner core to bloom again in spring.\n\nElena picked up a fallen yellow leaf, held it gently in her palm for a moment, and opened her hand to the breeze. As the leaf floated away into the meadow, her chest felt lighter.",
+          "reflection": "Letting go is not losing; it is making space for your next season to breathe."
+        },
+        {
+          "id": "heartbroken-3",
+          "title": "The Night Blooming Jasmine",
+          "subtitle": "Sweet fragrance in the dark hours",
+          "readTime": "6 min read",
+          "excerpt": "Some flowers refuse to open under the harsh midday sun; they bloom only when the night is quiet...",
+          "content": "In the secluded courtyard garden, the vibrant roses and tulips folded their petals tight as twilight settled over the brick walls. But near the old stone wall, a cluster of pale star-shaped jasmine buds began to unfold, filling the cool night air with a rich, intoxicating fragrance.\n\n'Why do these flowers bloom only at night when everyone is asleep?' a young girl asked her grandfather as they sat on the bench.\n\n'The night jasmine knows a secret,' the grandfather replied softly, his hand resting on hers. 'The daylight demands too much noise and heat. The dark night provides the quiet, protected space where delicate things can open without fear of being scorched.'\n\nShe breathed in the sweet perfume. Even in the deepest darkness, beauty was opening quietly in the shade.",
+          "reflection": "Give yourself grace tonight. Softness blooms best when the world quietens down."
+        }
+      ]
+    },
+    {
+      "id": "funny",
+      "name": "Funny",
+      "tagline": "A gentle smile to lighten your spirit",
+      "accent": "#E57A60",
+      "bgAura": "rgba(229, 122, 96, 0.15)",
+      "stories": [
+        {
+          "id": "funny-1",
+          "title": "The Philosophy of Barnaby the Cat",
+          "subtitle": "Unmatched wisdom in a furry bundle",
+          "readTime": "5 min read",
+          "excerpt": "Barnaby had two sacred duties: sleeping in sunbeams and silently judging human panic...",
+          "content": "Barnaby was an extraordinarily large ginger cat who believed he was the rightful ruler of the universe. On a frantic Tuesday morning, his human, Clara, was tearing through the apartment searching for her lost car keys while dropping papers and coat buttons everywhere.\n\nBarnaby sat comfortably atop the grand piano, slowly blinking his emerald eyes in complete calm. As Clara zoomed past for the seventh time, Barnaby extended one furry paw and nudged a single pink eraser off the keys. It landed with a tiny *thud* on the soft rug below.\n\nClara stopped dead in her tracks, looked at the eraser, looked up at Barnaby's serene face, and suddenly burst into helpless laughter. Barnaby let out a slow, rumbling purr. Humans were far too dramatic about lost keys when a perfectly warm sunbeam was waiting on the sofa.",
+          "reflection": "Allow yourself to smile. Most of today's urgencies will look very tiny by next week."
+        },
+        {
+          "id": "funny-2",
+          "title": "The Great Sourdough Rebellion",
+          "subtitle": "When baking takes on a life of its own",
+          "readTime": "5 min read",
+          "excerpt": "Arthur wanted a simple loaf of artisanal bread; what he created was an unstoppable force of nature...",
+          "content": "It began innocently enough with an online sourdough starter recipe. Arthur mixed flour, warm spring water, and wild yeast in a large glass jar, covering it with a damp tea towel as instructed.\n\nBy midnight, the starter had doubled in size. By 3 AM, it had lifted the heavy glass lid like an emerging creature. By dawn, Arthur walked into the kitchen to find a smooth, bubbling dough entity gently overflowing onto the wooden counter, looking suspiciously like it was contemplating taking over the toaster.\n\nHe stood in his bathrobe, wooden spoon raised in defense. 'Listen,' Arthur whispered to the rising dough, 'we can negotiate.' The starter emitted a cheerful *pop* of gas. Arthur chuckled out loud as he reached for more flour to restore peace.",
+          "reflection": "Life rarely follows our exact recipes. Sometimes the overflow is where the fun begins."
+        },
+        {
+          "id": "funny-3",
+          "title": "The Squirrel's Portfolio",
+          "subtitle": "High-stakes acorn management lessons",
+          "readTime": "6 min read",
+          "excerpt": "Pippin took acorn storage very seriously—until spring arrived and he forgot where he buried them...",
+          "content": "Pippin the grey squirrel was the self-appointed financial director of the oak grove. Every autumn, he buried hundreds of premium acorns with military precision beneath flowerpots, patio tiles, and garden gnomes.\n\nCome spring, Pippin sat on the fence post scratch-heading his ear in utter confusion. He had buried forty acorns near the birdbath, but could only locate two. However, seven tiny oak saplings had sprouted near the garden shed.\n\nHe looked at the new trees, twitched his whiskers proudly, and seemed to conclude: 'Ah yes, a long-term timber investment strategy. Exactly as planned.' He leaped onto a branch, thoroughly pleased with his accidental forest.",
+          "reflection": "Even your small missteps might be planting forgotten oak trees for the future."
+        }
+      ]
+    },
+    {
+      "id": "calm",
+      "name": "Calm",
+      "tagline": "Stillness and gentle presence",
+      "accent": "#719280",
+      "bgAura": "rgba(113, 146, 128, 0.15)",
+      "stories": [
+        {
+          "id": "calm-1",
+          "title": "The Mossy Garden Path",
+          "subtitle": "Stepping into quiet stillness",
+          "readTime": "5 min read",
+          "excerpt": "There was no noise in the courtyard except the slow drip of spring water into a stone basin...",
+          "content": "Deep inside the mountain sanctuary garden, the narrow path was paved with smooth river stones cushioned by thick green velvet moss. Walking here required slow, deliberate steps—not out of strict rule, but out of natural reverence for the quiet atmosphere.\n\nSora stepped onto the damp moss barefoot. The cool earth immediately absorbed the frantic thoughts spinning in her head. High above, tall bamboo stalks swayed gently in the mountain breeze, creating a soft, rustling lullaby.\n\nShe sat on a flat granite boulder, watching a solitary blue dragonfly hover over a calm lotus pond. Minutes dissolved into stillness. Nothing needed to be fixed. Nothing needed to be accomplished. Simply sitting here was completely enough.",
+          "reflection": "Unclench your jaw. Let the quiet of this moment sink deep into your bones."
+        },
+        {
+          "id": "calm-2",
+          "title": "The Lighthouse at Midnight",
+          "subtitle": "A steady beacon amidst dark waters",
+          "readTime": "5 min read",
+          "excerpt": "The light swept across the dark sea in a smooth, unhurried 360-degree arc...",
+          "content": "High in the lantern room of the coastal tower, the heavy brass gears hummed with a soothing cadence. Every twelve seconds, the warm golden beam swept across the ink-black ocean, illuminating white froth on distant waves before returning smoothly to the dark.\n\nThe lighthouse keeper sat in his comfortable armchair, knitting a grey wool blanket. Outside, gale-force winds howled against the stone walls, but inside the glass room, the air was warm and smelled of sweet oil and cedar.\n\nThe keeper didn't try to silence the ocean storm; he simply kept the light turning steadily through every hour of night until dawn.",
+          "reflection": "Be your own steady beacon. You don't have to quiet the storm outside to remain calm within."
+        },
+        {
+          "id": "calm-3",
+          "title": "The Floating Water Lily",
+          "subtitle": "Resting gracefully on life's surface",
+          "readTime": "6 min read",
+          "excerpt": "The lily did not fight the ripples; it floated effortlessly upon whatever water came...",
+          "content": "On the mirror-like surface of the forest pond, a single white water lily rested atop a broad green pad. Beneath the surface, its long stem reached deep down into the nutrient-rich earth, anchoring it securely.\n\nWhen gusts of wind swept across the water, creating sharp ripples, the lily rose slightly, dipped softly, and returned to balance without losing a single white petal.\n\nIt didn't struggle against the waves. Its peace came from its deep root and its willingness to yield to the surface currents without fear.",
+          "reflection": "You are deeply rooted. You can float gently above whatever ripples wash past today."
+        }
+      ]
+    },
+    {
+      "id": "nostalgic",
+      "name": "Nostalgic",
+      "tagline": "Warm memories of gentle days gone by",
+      "accent": "#B87258",
+      "bgAura": "rgba(184, 114, 88, 0.15)",
+      "stories": [
+        {
+          "id": "nostalgic-1",
+          "title": "The Attic Vinyl Record",
+          "subtitle": "A soft melody from decades past",
+          "readTime": "5 min read",
+          "excerpt": "The needle lowered onto the spinning black disc with a familiar warm crackle...",
+          "content": "In the sunlit attic bedroom, Sarah blew a light dust off an old cardboard record sleeve. Inside was an album her grandmother used to play on quiet Sunday afternoons while baking peach tarts.\n\nShe placed the vinyl onto the turntable and flipped the small toggle. The subtle needle crackle filled the room like rain on a tin roof, followed by the rich, mellow chords of an acoustic guitar.\n\nInstantly, she was ten years old again, sitting on the sun-warmed braided rug, watching dust motes dance in the amber light. The world had grown complex, but the memory of feeling safe remained permanent.",
+          "reflection": "The good memories you have carried are permanent treasures. They belong to you forever."
+        },
+        {
+          "id": "nostalgic-2",
+          "title": "The Pocket Watch of Golden Summers",
+          "subtitle": "Keeping time with sunset hours",
+          "readTime": "5 min read",
+          "excerpt": "Inside the tarnished silver casing lay a pressed wildflower from an August twilight...",
+          "content": "Grandfather's silver pocket watch didn't tell minutes anymore; its hands were frozen at 7:15 on an August evening decades ago. But when Leo popped open the latch, he found a tiny yellow buttercup pressed carefully behind the glass cover.\n\nHe remembered that evening clearly—the sound of crickets in the tall clover, the smell of fresh-cut grass, the taste of sweet lemonade, and his grandfather's booming laugh echoing across the lawn.\n\nThe watch no longer ticked, but holding it was like stepping back into that endless summer twilight.",
+          "reflection": "Hold the warmth of your fondest memories close to your chest tonight."
+        },
+        {
+          "id": "nostalgic-3",
+          "title": "The Wooden Toy Boat",
+          "subtitle": "Sailing down memory stream",
+          "readTime": "6 min read",
+          "excerpt": "A small carved pine boat guided by youthful laughter down a winding brook...",
+          "content": "Beside the old stone bridge where the creek ran fast, David found a smooth piece of driftwood. Using his pocket knife, he notched a tiny mast and attached a broad maple leaf as a sail, just as he had done thirty years ago with his brother.\n\nHe set the little craft into the clear water. It caught the current immediately, spinning once before sailing smoothly through the dappled sunlight beneath the weeping willows.\n\nDavid smiled, following its journey along the bank. Time had moved swiftly like the stream, but the simple joy of launching a leaf-sailed boat into the unknown was just as sweet as ever.",
+          "reflection": "The simple joys of your childhood still live quietly inside you."
+        }
+      ]
+    }
+  ]
+}
