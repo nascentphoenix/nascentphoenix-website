@@ -165,44 +165,12 @@ body {
   color: var(--text-primary);
 }
 
-.brand-logo-wrapper {
-  width: 44px;
-  height: 44px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: transform var(--transition-fast);
-}
-
-.brand-link:hover .brand-logo-wrapper {
-  transform: scale(1.06) rotate(2deg);
-}
-
-.phoenix-svg-logo {
-  width: 100%;
-  height: 100%;
-}
-
-.brand-text {
-  display: flex;
-  flex-direction: column;
-}
-
-.brand-name {
-  font-family: var(--font-serif-heading);
-  font-size: 1.45rem;
-  font-weight: 600;
-  letter-spacing: 0.02em;
-  line-height: 1.1;
-  color: var(--text-primary);
-}
-
-.brand-tagline {
-  font-size: 0.72rem;
-  font-weight: 400;
-  color: var(--text-muted);
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+.brand-logo-img {
+  height: 48px;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+  display: block;
 }
 
 /* Header Controls */
